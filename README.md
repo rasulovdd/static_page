@@ -14,8 +14,8 @@
     git clone https://github.com/rasulovdd/static_page.git && cd static_page
     ```
 
-## Nginx (по стандарту default, если вы меняли настройки то открывайте свой файл)
-1. Открываем конфиг сайта и добавляем 
+## Nginx 
+1. Открываем конфиг сайта и добавляем (по стандарту default, если вы меняли настройки то открывайте свой файл)
     ```bash
     nano /etc/nginx/sites-available/default
     ```
