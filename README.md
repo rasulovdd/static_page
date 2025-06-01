@@ -1,9 +1,9 @@
-# static_page
 <h1 align="center">static_page</h1>
 
 ## Описание
 Статическая страница, Вам сюда нельзя
 
+## Установка 
 1. Переходим в папку /var/www/html<br/>
     ```bash
     cd /var/www/html
